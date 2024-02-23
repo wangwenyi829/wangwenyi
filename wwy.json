@@ -1,5 +1,5 @@
 {
-  "spider": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/wwy.jar",
+  "spider": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/wwy.jar",
   "sites": [
      {
       "key": "wenyi",
