@@ -14,18 +14,18 @@
       "key": "FreeOK",
       "name": "️️👌┃Freeok",
       "type": 3,
-      "api": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/lib/drpy2.min.js",
-      "ext": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/lib/FreeOK.js"
+      "api": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/FreeOK.js"
     },
     {
       "key": "drpy_js_豆瓣",
       "name": "🐼肥猫",
       "type": 3,
-      "api": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/js/豆瓣推荐.js"
+      "ext": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/豆瓣推荐.js"
     },
     {
       "key": "DiDuan",
@@ -61,11 +61,11 @@
       "key": "Lib",
       "name": "🌟Lib┃直连",
       "type": 3,
-      "api": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/lib/LIBVIO.js"
+      "ext": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/LIBVIO.js"
     },
     {
       "key": "csp_Voflix",
@@ -355,7 +355,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/tvzb.txt",
+      "url": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/tvzb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
