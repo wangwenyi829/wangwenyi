@@ -19,10 +19,13 @@
     },
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃肥猫",
+      "name": "🐼肥猫",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "https://raw.githubusercontent.com/wangwenyi829/wangwenyi/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://codeberg.org/wangwenyi829/1006/raw/branch/main/js/豆瓣推荐.js"
     },
     {
       "key": "DiDuan",
